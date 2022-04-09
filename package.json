@@ -18,7 +18,7 @@
     "bcrypt-nodejs": "0.0.3",
     "crypto": "^1.0.1",
     "jwt-simple": "^0.5.1",
-    "moment": "^2.22.2"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
